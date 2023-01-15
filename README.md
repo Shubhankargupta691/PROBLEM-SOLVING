@@ -1,2 +1,2 @@
 # Problem-Solving
-Problem Solving programs in Java
+Problem Solving programs in C & Java

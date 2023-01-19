@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA/0 method/0 method.iml" filepath="$PROJECT_DIR$/JAVA/0 method/0 method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/1 Array/1 Array.iml" filepath="$PROJECT_DIR$/JAVA/1 Array/1 Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/2 INTELLIJ.iml" filepath="$PROJECT_DIR$/.idea/2 INTELLIJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/2 searching/2 searching.iml" filepath="$PROJECT_DIR$/JAVA/2 searching/2 searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/8 OOPs/8 OOPs.iml" filepath="$PROJECT_DIR$/JAVA/8 OOPs/8 OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Hacker rank/Hacker rank.iml" filepath="$PROJECT_DIR$/JAVA/Hacker rank/Hacker rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/5 sorting/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/JAVA/5 sorting/Merge Sort/Merge Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/3 Recursion/Stairs/Stairs/Stairs.iml" filepath="$PROJECT_DIR$/JAVA/3 Recursion/Stairs/Stairs/Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Strings/Strings.iml" filepath="$PROJECT_DIR$/JAVA/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/3 Recursion/factorial/factorial.iml" filepath="$PROJECT_DIR$/JAVA/3 Recursion/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/fibo/fibo.iml" filepath="$PROJECT_DIR$/JAVA/fibo/fibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/3 Recursion/fibonachi/fibonachi.iml" filepath="$PROJECT_DIR$/JAVA/3 Recursion/fibonachi/fibonachi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/3 Recursion/number to tword/number to tword.iml" filepath="$PROJECT_DIR$/JAVA/3 Recursion/number to tword/number to tword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/3 Recursion/power n/power n.iml" filepath="$PROJECT_DIR$/JAVA/3 Recursion/power n/power n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/5 sorting/untitled/untitled.iml" filepath="$PROJECT_DIR$/JAVA/5 sorting/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/3 Recursion/Stairs/untitled/untitled1.iml" filepath="$PROJECT_DIR$/JAVA/3 Recursion/Stairs/untitled/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/6 Stack/binary to decimal/untitled1/untitled11.iml" filepath="$PROJECT_DIR$/JAVA/6 Stack/binary to decimal/untitled1/untitled11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/6 Stack/binary to decimal/untitled/untitled2.iml" filepath="$PROJECT_DIR$/JAVA/6 Stack/binary to decimal/untitled/untitled2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,5 +1,5 @@
 import java.util.*;
-
+import java.util.regex.*;
 public class Regex {
 
 
@@ -8,6 +8,7 @@ public class Regex {
         while(in.hasNext()){
             String IP = in.next();
             System.out.println(IP.matches(new MyRegex().pattern));
+
         }
 
     }
@@ -16,7 +17,5 @@ public class Regex {
 class MyRegex {
 
     String ip0to255 = "(\\d{1,2}||(0|1)\\d{2}||2[0-4]\\d||25[0-5])";
-
     public String pattern = ip0to255 + "\\." + ip0to255 + "\\." + ip0to255 + "\\." + ip0to255;
 }
-
